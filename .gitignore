@@ -1,0 +1,29 @@
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs, models, data
+*.log
+*.csv
+*.npy
+*.npz
+*.h5
+*.pkl
+*.ckpt
